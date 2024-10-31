@@ -1,0 +1,21 @@
+/* Related Category Post Display Style*/
+.related-post-cat-post-title{
+    position: absolute !important;
+    top:10px !important;
+    left:70px !important;
+}
+.catpost-title-related{
+    position: relative !important;
+}
+.related-post-cat-thumb img {
+    padding-top: 5px !important;
+}
+.related-cat-listing{
+    display: none;
+}
+.related-posts-cats {
+    list-style: none !important;
+}
+.single-post .cat-listing{
+ display: block !important;
+}
